@@ -1,0 +1,15 @@
+{
+  "name": "exercise-node-react-developer-main",
+  "version": "1.0.0",
+  "description": "We are interested to see how you work as well, as what your final results are; include useful Git commit messages and comments where you think your code may be unclear.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.4.0"
+  },
+  "devDependencies": {}
+}
